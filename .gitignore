@@ -1,0 +1,15 @@
+# Global
+__pycache__
+bin
+bin-int
+mh/vendor/*
+
+# Windows
+.vs
+*.sln
+*.vcxproj*
+
+# Linux
+.vscode
+
+# Mac - to be added in the future (*.xcodeproj suggested)
